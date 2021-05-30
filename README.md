@@ -6,8 +6,8 @@
 * **Dinner** - rice, beans, lettuce, apple
 
 ## Move
-* **MWF** - treadmill, weights
-* **TThSat** - yoga, walk 
+* **M-W-F** - treadmill, weights
+* **T-Th-Sat** - yoga, walk 
 * **Sun** - Wendy
 
 ## Seek
