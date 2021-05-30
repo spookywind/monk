@@ -1,6 +1,7 @@
 # Monk
 
 ## Eat
+* prayer-of-thanksgiving
 * **Breakfast** - oats, soy-milk, orange, banana
 * **Lunch** - noodles, sardines, spinach, snow-pea, pear
 * **Dinner** - rice, beans, lettuce, cucumber, tomato, apple
