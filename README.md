@@ -1,9 +1,9 @@
 # Monk
 
 ## Eat
-* **Breakfast** - oats, soy-milk, orange, banana
+* **Breakfast** - oats, soy-milk, tomato, orange, banana
 * **Lunch** - noodles, sardines, spinach, snow-pea, pear
-* **Dinner** - rice, beans, lettuce, cucumber, tomato, apple
+* **Dinner** - rice, beans, lettuce, cucumber, salsa, apple
 * prayer-of-thanksgiving
 
 ## Move
