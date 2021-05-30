@@ -5,6 +5,7 @@
 * **Lunch** - noodles, sardines, spinach, snow-pea, pear
 * **Dinner** - rice, beans, lettuce, cucumber, salsa-dressing, apple
 * prayer-of-thanksgiving
+* meds
 
 ## Move
 * **M-W-F** - treadmill-audible, 5-factor, stretch
