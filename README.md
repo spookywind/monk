@@ -1,28 +1,23 @@
 # Monk
 
-## Eat Healthy
-* **Breakfast** - Oats + Banana, Soy Milk, Tomato, Orange
-* **Lunch** - Noodles, Sardines, Spinach + Snow Pea, Pear
+## Eat
+* **Breakfast** - oats + banana, soy-milk, tomato, orange
+* **Lunch** - noodles, sardines, spinach + snow-pea, pear
 * **Dinner** - Rice, Beans, Lettuce, Apple
 
 ## Move
-* **MWF** - Treadmill + Weights
-* **TThSat** - Yoga + Walk 
-* **Sun** - Rest
+* **MWF** - treadmill, weights
+* **TThSat** - yoga, walk 
+* **Sun** - Wendy
 
 ## Seek
-* Meditation
-* Scriptures
-* Prayer
+* scriptures, meditation, prayer
 
-## Simple Path
-* Family History
-* Chinese Scriptures
-* Clean, Bills, Laundry
+## Do
+* family-history, chinese-scriptures, clean | bills | laundry | garden
 
 ## Sleep
-* Love
-* Naps
+* bedtime, prayer, love, naps
 
 
 
