@@ -8,7 +8,8 @@
 
 ## Move
 * **M-W-F** - treadmill, weights, audible-scriptures
-* **T-Th-Sat** - yoga, walk 
+* **T-Th** - yoga, walk 
+* **Sat** - tai-chi-class, walk
 * **Sun** - Wendy, come-follow-me, audible-stories
 
 ## Seek
