@@ -7,7 +7,7 @@
 * prayer-of-thanksgiving
 
 ## Move
-* **M-W-F** - treadmill, weights, audible-scriptures
+* **M-W-F** - treadmill-audible, 5-factor, stretch
 * **T-Th** - yoga, walk 
 * **Sat** - tai-chi, walk
 * **Sun** - Wendy, come-follow-me, audible-stories
