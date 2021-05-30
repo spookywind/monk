@@ -21,22 +21,22 @@
 * Apple
 
 ## Move
-MWF - Treadmill + Weights
-TThSat - Yoga + Walk 
+* MWF - Treadmill + Weights
+* TThSat - Yoga + Walk 
 
 ## Seek
 * Meditation
 * Scriptures
 * Prayer
 
-## Path
+## Simple Path
 * Family History
 * Chinese Scriptures
+* Clean, Bills, Laundry
 
 ## Sleep
 * Love
 * Naps
 
-## Simplicity
 
 
