@@ -2,7 +2,7 @@
 
 ## Eat
 * **Breakfast** - oats, soy-milk, tomato, orange, banana
-* **Lunch** - rice, beans, lettuce, cucumber, salad-dressing, pear
+* **Lunch** - rice, beans, lettuce, tomato, cucumber, salad-dressing, pear
 * **Dinner** - noodles, sardines, spinach, snow-pea, apple
 * **Snack** - banana
 * prayer-of-thanksgiving
