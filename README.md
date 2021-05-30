@@ -19,5 +19,9 @@
 ## Sleep
 * bedtime, prayer, love, naps
 
+## Play
+* civ6, eso
+* happy-path
+
 
 
