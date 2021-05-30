@@ -14,7 +14,7 @@
 * scriptures, meditation, prayer, follow-Christ
 
 ## Do
-* family-history, chinese-scriptures, clean-bills-laundry-garden-...
+* family-history, chinese-scriptures, tasks(clean,bills,laundry,garden), ...
 
 ## Sleep
 * bedtime, prayer, love, naps
