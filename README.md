@@ -8,7 +8,7 @@
 ## Move
 * **M-W-F** - treadmill, weights
 * **T-Th-Sat** - yoga, walk 
-* **Sun** - church, Wendy, reading
+* **Sun** - church, Wendy, audible
 
 ## Seek
 * scriptures, meditation, prayer
