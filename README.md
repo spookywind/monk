@@ -1,9 +1,9 @@
 # Monk
 
 ## Eat
-* **Breakfast** - oats + banana, soy-milk, tomato, orange
-* **Lunch** - noodles, sardines, spinach + snow-pea, pear
-* **Dinner** - rice, beans, lettuce, apple
+* **Breakfast** - oats, soy-milk, orange, banana
+* **Lunch** - noodles, sardines, spinach, snow-pea, pear
+* **Dinner** - rice, beans, lettuce, cucumber, tomato, apple
 
 ## Move
 * **M-W-F** - treadmill, weights
