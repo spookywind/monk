@@ -1,14 +1,14 @@
 # Monk
 
 ## Eat Healthy
-* *Breakfast* - Oats + Banana, Soy Milk, Tomato, Orange
-* Lunch - Noodles, Sardines, Spinach + Snow Pea, Pear
-* Dinner - Rice, Beans, Lettuce, Apple
+* **Breakfast** - Oats + Banana, Soy Milk, Tomato, Orange
+* **Lunch** - Noodles, Sardines, Spinach + Snow Pea, Pear
+* **Dinner** - Rice, Beans, Lettuce, Apple
 
 ## Move
-* MWF - Treadmill + Weights
-* TThSat - Yoga + Walk 
-* Sun - Rest
+* **MWF** - Treadmill + Weights
+* **TThSat** - Yoga + Walk 
+* **Sun** - Rest
 
 ## Seek
 * Meditation
