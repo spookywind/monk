@@ -7,9 +7,9 @@
 * **Dinner** - rice, beans, lettuce, cucumber, tomato, apple
 
 ## Move
-* **M-W-F** - treadmill, weights
+* **M-W-F** - treadmill, weights, audible-scriptures
 * **T-Th-Sat** - yoga, walk 
-* **Sun** - Wendy, audible
+* **Sun** - Wendy, come-follow-me, audible-stories
 
 ## Seek
 * scriptures, meditation, prayer, follow-Christ
