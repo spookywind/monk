@@ -3,7 +3,7 @@
 ## Eat
 * **Breakfast** - oats + banana, soy-milk, tomato, orange
 * **Lunch** - noodles, sardines, spinach + snow-pea, pear
-* **Dinner** - Rice, Beans, Lettuce, Apple
+* **Dinner** - rice, beans, lettuce, apple
 
 ## Move
 * **MWF** - treadmill, weights
