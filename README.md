@@ -11,7 +11,7 @@
 * **Sun** - church, Wendy, audible
 
 ## Seek
-* scriptures, meditation, prayer
+* scriptures, meditation, prayer, Christ
 
 ## Do
 * family-history, chinese-scriptures, clean | bills | laundry | garden
