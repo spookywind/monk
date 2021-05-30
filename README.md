@@ -17,7 +17,7 @@
 * family-history, chinese-scriptures, tasks _(clean, bills, laundry, garden)_, ...
 
 ## Sleep
-* bedtime, prayer, love, naps
+* bedtimes, prayer, naps
 
 ## Play
 * civ6, eso
