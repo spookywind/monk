@@ -8,13 +8,13 @@
 ## Move
 * **M-W-F** - treadmill, weights
 * **T-Th-Sat** - yoga, walk 
-* **Sun** - church, Wendy, audible
+* **Sun** - Wendy, audible
 
 ## Seek
 * scriptures, meditation, prayer, follow-Christ
 
 ## Do
-* family-history, chinese-scriptures, tasks _(clean, bills, laundry, garden)_, ...
+* church, family-history, chinese-scriptures, tasks _(clean, bills, laundry, garden)_, ...
 
 ## Sleep
 * bedtimes, prayer, naps
