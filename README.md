@@ -20,8 +20,8 @@
 * bedtimes, prayer, naps
 
 ## Play
-* civ6, eso
-* happy-path
+* civ6, eso, tv
+* happy, not-to-excess
 
 
 
