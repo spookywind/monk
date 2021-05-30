@@ -23,7 +23,7 @@
 * bedtime, prayer, naps
 
 ## Play
-* **M-Sat** - civ6, eso, tv
+* **M-Sat** - civ6, eso, tv, Wendy
 * **Sun** - Wendy, audible-stories
 * happy, not-to-excess
 
