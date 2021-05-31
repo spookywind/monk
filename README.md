@@ -1,7 +1,7 @@
 # Monk
 
 ## Eat
-* **Breakfast** - oats, soy-milk, tomato, orange, banana
+* **Breakfast** - oats, soy-milk, baby-carrots, orange, banana
 * **Lunch** - rice, beans, lettuce, tomato, cucumber, salad-dressing, pear
 * **Dinner** - noodles, sardines, spinach, broccoli, snow-pea, apple
 * **Snack** - banana
