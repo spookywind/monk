@@ -15,10 +15,9 @@
 * **Sun** - Wendy, walk
 
 ## Seek
-* scriptures, meditation, prayer, follow-Christ, come-follow-me
-
+* scriptures, meditation, prayer
 ## Do
-* church, family-history, chinese-scriptures, tasks _(clean, bills, laundry, garden)_, ...
+* church, family-history, chinese-scriptures, come-follow-up, tasks _(clean, bills, laundry, garden)_, ...
 
 ## Sleep
 * bedtime, prayer, naps
