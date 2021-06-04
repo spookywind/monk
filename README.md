@@ -17,7 +17,7 @@
 ## Seek
 * scriptures, prayer, meditation
 ## Do
-* church, family-history, chinese-scriptures, come-follow-up, tasks _(clean, bills, laundry, garden)_, ...
+* one of: church, family-history, chinese-scriptures, come-follow-up, tasks _(clean, bills, laundry, garden)_, ...
 
 ## Sleep
 * bedtime, prayer, naps
