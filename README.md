@@ -29,4 +29,5 @@
 
 ## Celibacy
 * except when sex requested
+* love
 
