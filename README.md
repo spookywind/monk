@@ -1,4 +1,4 @@
-# Monk
+# Path of the Monk
 
 ## Eat
 * **Breakfast** - oats, soy-milk, baby-carrots, orange, banana
