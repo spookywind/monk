@@ -20,7 +20,7 @@
 * one of: church, family-history, chinese-scriptures, come-follow-up, tasks _(clean, bills, laundry, garden)_, ...
 
 ## Sleep
-* bedtime, prayer, naps
+* bedtime, naps
 
 ## Play
 * **M-Sat** - civ6, eso, tv, Wendy
