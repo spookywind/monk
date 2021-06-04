@@ -27,5 +27,6 @@
 * **Sun** - Wendy, audible-stories
 * happy, not-to-excess
 
-
+## Celibacy
+* except when sex requested
 
